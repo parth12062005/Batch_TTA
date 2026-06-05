@@ -1,0 +1,45 @@
+Batch 204 Metrics:
+Baseline SRCC: 0.7857  |  Baseline PLCC: 0.8480
+TTA SRCC:      0.7857  |  TTA PLCC:      0.8480
+--------------------------------------------------
+Image Details:
+
+[SD1.4_0394.png]
+  MOS Score:      0.6459  (Rank: 5)
+  Baseline Pred:  0.2954  (Rank: 6)
+  TTA Pred:       0.2954  (Rank: 6)
+
+[SD1.4_0395.png]
+  MOS Score:      0.6342  (Rank: 7)
+  Baseline Pred:  0.2495  (Rank: 7)
+  TTA Pred:       0.2495  (Rank: 7)
+
+[SD1.4_0402.png]
+  MOS Score:      0.7275  (Rank: 2)
+  Baseline Pred:  0.3946  (Rank: 1)
+  TTA Pred:       0.3946  (Rank: 1)
+
+[SD1.4_0405.png]
+  MOS Score:      0.7101  (Rank: 4)
+  Baseline Pred:  0.3822  (Rank: 2)
+  TTA Pred:       0.3822  (Rank: 2)
+
+[SD1.4_0416.png]
+  MOS Score:      0.7488  (Rank: 1)
+  Baseline Pred:  0.3728  (Rank: 3)
+  TTA Pred:       0.3728  (Rank: 3)
+
+[SD1.4_0417.png]
+  MOS Score:      0.3920  (Rank: 8)
+  Baseline Pred:  0.2016  (Rank: 8)
+  TTA Pred:       0.2016  (Rank: 8)
+
+[SD1.4_0421.png]
+  MOS Score:      0.6444  (Rank: 6)
+  Baseline Pred:  0.3416  (Rank: 4)
+  TTA Pred:       0.3416  (Rank: 4)
+
+[SD1.4_0423.png]
+  MOS Score:      0.7239  (Rank: 3)
+  Baseline Pred:  0.3163  (Rank: 5)
+  TTA Pred:       0.3163  (Rank: 5)

@@ -1,0 +1,45 @@
+Batch 19 Metrics:
+Baseline SRCC: -0.2381  |  Baseline PLCC: -0.2148
+TTA SRCC:      -0.2381  |  TTA PLCC:      -0.2148
+--------------------------------------------------
+Image Details:
+
+[DALLE3_0425.png]
+  MOS Score:      0.9675  (Rank: 1)
+  Baseline Pred:  0.5634  (Rank: 5)
+  TTA Pred:       0.5634  (Rank: 5)
+
+[DALLE3_0447.png]
+  MOS Score:      0.9018  (Rank: 4)
+  Baseline Pred:  0.6055  (Rank: 3)
+  TTA Pred:       0.6055  (Rank: 3)
+
+[DALLE3_0465.png]
+  MOS Score:      0.9467  (Rank: 2)
+  Baseline Pred:  0.5214  (Rank: 7)
+  TTA Pred:       0.5214  (Rank: 7)
+
+[DALLE3_0467.png]
+  MOS Score:      0.8280  (Rank: 8)
+  Baseline Pred:  0.5886  (Rank: 4)
+  TTA Pred:       0.5886  (Rank: 4)
+
+[DALLE3_0473.png]
+  MOS Score:      0.8609  (Rank: 6)
+  Baseline Pred:  0.5264  (Rank: 6)
+  TTA Pred:       0.5264  (Rank: 6)
+
+[DALLE3_0474.png]
+  MOS Score:      0.9203  (Rank: 3)
+  Baseline Pred:  0.6265  (Rank: 2)
+  TTA Pred:       0.6265  (Rank: 2)
+
+[DALLE3_0483.png]
+  MOS Score:      0.8575  (Rank: 7)
+  Baseline Pred:  0.6448  (Rank: 1)
+  TTA Pred:       0.6448  (Rank: 1)
+
+[DALLE3_0487.png]
+  MOS Score:      0.8905  (Rank: 5)
+  Baseline Pred:  0.5080  (Rank: 8)
+  TTA Pred:       0.5080  (Rank: 8)

@@ -1,0 +1,45 @@
+Batch 67 Metrics:
+Baseline SRCC: 0.5238  |  Baseline PLCC: 0.8125
+TTA SRCC:      0.5238  |  TTA PLCC:      0.8125
+--------------------------------------------------
+Image Details:
+
+[LCM_Pixart_0151.png]
+  MOS Score:      0.8340  (Rank: 3)
+  Baseline Pred:  0.4649  (Rank: 6)
+  TTA Pred:       0.4649  (Rank: 6)
+
+[LCM_Pixart_0158.png]
+  MOS Score:      0.8596  (Rank: 1)
+  Baseline Pred:  0.5896  (Rank: 1)
+  TTA Pred:       0.5896  (Rank: 1)
+
+[LCM_Pixart_0162.png]
+  MOS Score:      0.7721  (Rank: 6)
+  Baseline Pred:  0.3717  (Rank: 7)
+  TTA Pred:       0.3717  (Rank: 7)
+
+[LCM_Pixart_0175.png]
+  MOS Score:      0.4992  (Rank: 8)
+  Baseline Pred:  0.3014  (Rank: 8)
+  TTA Pred:       0.3014  (Rank: 8)
+
+[LCM_Pixart_0177.png]
+  MOS Score:      0.7415  (Rank: 7)
+  Baseline Pred:  0.5019  (Rank: 3)
+  TTA Pred:       0.5019  (Rank: 3)
+
+[LCM_Pixart_0178.png]
+  MOS Score:      0.8353  (Rank: 2)
+  Baseline Pred:  0.4963  (Rank: 4)
+  TTA Pred:       0.4963  (Rank: 4)
+
+[LCM_Pixart_0192.png]
+  MOS Score:      0.8250  (Rank: 5)
+  Baseline Pred:  0.5263  (Rank: 2)
+  TTA Pred:       0.5263  (Rank: 2)
+
+[LCM_Pixart_0194.png]
+  MOS Score:      0.8276  (Rank: 4)
+  Baseline Pred:  0.4813  (Rank: 5)
+  TTA Pred:       0.4813  (Rank: 5)

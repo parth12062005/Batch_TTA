@@ -1,0 +1,45 @@
+Batch 319 Metrics:
+Baseline SRCC: 0.6190  |  Baseline PLCC: 0.7760
+TTA SRCC:      0.6190  |  TTA PLCC:      0.7760
+--------------------------------------------------
+Image Details:
+
+[SDXL_Turbo_0901.png]
+  MOS Score:      0.7532  (Rank: 6)
+  Baseline Pred:  0.5695  (Rank: 2)
+  TTA Pred:       0.5695  (Rank: 2)
+
+[SDXL_Turbo_0906.png]
+  MOS Score:      0.8387  (Rank: 3)
+  Baseline Pred:  0.5111  (Rank: 3)
+  TTA Pred:       0.5111  (Rank: 3)
+
+[SDXL_Turbo_0908.png]
+  MOS Score:      0.6764  (Rank: 7)
+  Baseline Pred:  0.3203  (Rank: 8)
+  TTA Pred:       0.3203  (Rank: 8)
+
+[SDXL_Turbo_0915.png]
+  MOS Score:      0.8775  (Rank: 2)
+  Baseline Pred:  0.5732  (Rank: 1)
+  TTA Pred:       0.5732  (Rank: 1)
+
+[SDXL_Turbo_0926.png]
+  MOS Score:      0.8071  (Rank: 4)
+  Baseline Pred:  0.4737  (Rank: 6)
+  TTA Pred:       0.4737  (Rank: 6)
+
+[SDXL_Turbo_0927.png]
+  MOS Score:      0.8836  (Rank: 1)
+  Baseline Pred:  0.4935  (Rank: 4)
+  TTA Pred:       0.4935  (Rank: 4)
+
+[SDXL_Turbo_0931.png]
+  MOS Score:      0.5993  (Rank: 8)
+  Baseline Pred:  0.3506  (Rank: 7)
+  TTA Pred:       0.3506  (Rank: 7)
+
+[SDXL_Turbo_0935.png]
+  MOS Score:      0.8014  (Rank: 5)
+  Baseline Pred:  0.4873  (Rank: 5)
+  TTA Pred:       0.4873  (Rank: 5)

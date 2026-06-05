@@ -1,0 +1,45 @@
+Batch 51 Metrics:
+Baseline SRCC: 0.7619  |  Baseline PLCC: 0.8319
+TTA SRCC:      0.7619  |  TTA PLCC:      0.8319
+--------------------------------------------------
+Image Details:
+
+[Dream_1681.png]
+  MOS Score:      0.6286  (Rank: 6)
+  Baseline Pred:  0.3846  (Rank: 6)
+  TTA Pred:       0.3846  (Rank: 6)
+
+[Dream_1685.png]
+  MOS Score:      0.8474  (Rank: 3)
+  Baseline Pred:  0.4925  (Rank: 4)
+  TTA Pred:       0.4925  (Rank: 4)
+
+[Dream_1691.png]
+  MOS Score:      0.8668  (Rank: 1)
+  Baseline Pred:  0.5871  (Rank: 1)
+  TTA Pred:       0.5871  (Rank: 1)
+
+[Dream_1704.png]
+  MOS Score:      0.8562  (Rank: 2)
+  Baseline Pred:  0.4992  (Rank: 2)
+  TTA Pred:       0.4992  (Rank: 2)
+
+[Dream_1710.png]
+  MOS Score:      0.6618  (Rank: 5)
+  Baseline Pred:  0.3047  (Rank: 8)
+  TTA Pred:       0.3047  (Rank: 8)
+
+[Dream_1711.png]
+  MOS Score:      0.7386  (Rank: 4)
+  Baseline Pred:  0.4933  (Rank: 3)
+  TTA Pred:       0.4933  (Rank: 3)
+
+[Dream_1714.png]
+  MOS Score:      0.6060  (Rank: 8)
+  Baseline Pred:  0.4084  (Rank: 5)
+  TTA Pred:       0.4084  (Rank: 5)
+
+[Dream_1730.png]
+  MOS Score:      0.6115  (Rank: 7)
+  Baseline Pred:  0.3777  (Rank: 7)
+  TTA Pred:       0.3777  (Rank: 7)

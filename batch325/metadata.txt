@@ -1,0 +1,45 @@
+Batch 325 Metrics:
+Baseline SRCC: 0.3810  |  Baseline PLCC: 0.7262
+TTA SRCC:      0.3810  |  TTA PLCC:      0.7262
+--------------------------------------------------
+Image Details:
+
+[SSD1B_0306.png]
+  MOS Score:      0.8363  (Rank: 4)
+  Baseline Pred:  0.4352  (Rank: 7)
+  TTA Pred:       0.4352  (Rank: 7)
+
+[SSD1B_0312.png]
+  MOS Score:      0.8116  (Rank: 5)
+  Baseline Pred:  0.5200  (Rank: 2)
+  TTA Pred:       0.5200  (Rank: 2)
+
+[SSD1B_0315.png]
+  MOS Score:      0.6367  (Rank: 8)
+  Baseline Pred:  0.3898  (Rank: 8)
+  TTA Pred:       0.3898  (Rank: 8)
+
+[SSD1B_0316.png]
+  MOS Score:      0.9206  (Rank: 1)
+  Baseline Pred:  0.5792  (Rank: 1)
+  TTA Pred:       0.5792  (Rank: 1)
+
+[SSD1B_0322.png]
+  MOS Score:      0.7735  (Rank: 7)
+  Baseline Pred:  0.5166  (Rank: 3)
+  TTA Pred:       0.5166  (Rank: 3)
+
+[SSD1B_0348.png]
+  MOS Score:      0.7746  (Rank: 6)
+  Baseline Pred:  0.5093  (Rank: 5)
+  TTA Pred:       0.5093  (Rank: 5)
+
+[SSD1B_0351.png]
+  MOS Score:      0.8910  (Rank: 2)
+  Baseline Pred:  0.5006  (Rank: 6)
+  TTA Pred:       0.5006  (Rank: 6)
+
+[SSD1B_0364.png]
+  MOS Score:      0.8697  (Rank: 3)
+  Baseline Pred:  0.5116  (Rank: 4)
+  TTA Pred:       0.5116  (Rank: 4)
