@@ -1,0 +1,45 @@
+Batch 42 Metrics:
+Baseline SRCC: 0.8095  |  Baseline PLCC: 0.7088
+TTA SRCC:      0.8095  |  TTA PLCC:      0.7088
+--------------------------------------------------
+Image Details:
+
+[ali_flux_schnell/521.png]
+  MOS Score:      0.6716  (Rank: 2)
+  Baseline Pred:  0.6692  (Rank: 2)
+  TTA Pred:       0.6692  (Rank: 2)
+
+[ali_flux_schnell/531.png]
+  MOS Score:      0.5591  (Rank: 6)
+  Baseline Pred:  0.5777  (Rank: 7)
+  TTA Pred:       0.5777  (Rank: 7)
+
+[ali_flux_schnell/535.png]
+  MOS Score:      0.6806  (Rank: 1)
+  Baseline Pred:  0.6797  (Rank: 1)
+  TTA Pred:       0.6797  (Rank: 1)
+
+[ali_flux_schnell/540.png]
+  MOS Score:      0.5806  (Rank: 5)
+  Baseline Pred:  0.5857  (Rank: 6)
+  TTA Pred:       0.5857  (Rank: 6)
+
+[ali_flux_schnell/544.png]
+  MOS Score:      0.5275  (Rank: 8)
+  Baseline Pred:  0.4754  (Rank: 8)
+  TTA Pred:       0.4754  (Rank: 8)
+
+[ali_flux_schnell/547.png]
+  MOS Score:      0.5296  (Rank: 7)
+  Baseline Pred:  0.6419  (Rank: 4)
+  TTA Pred:       0.6419  (Rank: 4)
+
+[ali_flux_schnell/553.png]
+  MOS Score:      0.6415  (Rank: 4)
+  Baseline Pred:  0.6465  (Rank: 3)
+  TTA Pred:       0.6465  (Rank: 3)
+
+[ali_flux_schnell/555.png]
+  MOS Score:      0.6665  (Rank: 3)
+  Baseline Pred:  0.6218  (Rank: 5)
+  TTA Pred:       0.6218  (Rank: 5)
